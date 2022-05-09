@@ -1,2 +1,2 @@
-# TestOutMy2DGame
+# Test it out :)
 2D metroidvania like game.
